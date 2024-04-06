@@ -1,13 +1,13 @@
-### Moza HGP shifter script
+## Moza HGP shifter script
 
-#### Requirement
+### Requirement
 Windows
 
 pywinusb
 
 Python 3
 
-#### Usage
+### Usage
 
 Connect your Moza devices as per usual (HGP shifter to the wheel base, and wheel base to PC)
 
